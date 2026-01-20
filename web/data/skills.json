@@ -1,0 +1,148 @@
+{
+  "meta": {
+    "title": "Vibe for 奇绩",
+    "description": "使用Claude Code Skill助力奇绩的工作，更高质量，更长期地赋能奇绩校友成长",
+    "repoUrl": "[待添加]",
+    "surveyUrl": "[待添加 - 飞书问卷链接]"
+  },
+  "categories": [
+    "产品开发",
+    "市场调查",
+    "品牌增长"
+  ],
+  "skills": [
+    {
+      "id": "alpha-sight",
+      "name": "Alpha-Sight",
+      "description": "科学研究工程助手，分析arXiv论文并复现代码",
+      "type": "built",
+      "rating": 4,
+      "category": "产品开发",
+      "githubUrl": "[待添加]",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": [
+        "Python >= 3.9",
+        "uv, git",
+        "arXiv API",
+        "Semantic Scholar API (可选)"
+      ]
+    },
+    {
+      "id": "person-analyzer",
+      "name": "Person-Analyzer",
+      "description": "深度人物传记分析工具，研究和分析有影响力人物的生命轨迹",
+      "type": "built",
+      "rating": 5,
+      "category": "市场调查",
+      "githubUrl": "[待添加]",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": [
+        "Python 3.8+",
+        "httpx, pydantic",
+        "Google AI Mode API",
+        "Tavily API (备用)"
+      ]
+    },
+    {
+      "id": "qi-signal-analysis",
+      "name": "Qi-Signal-Analysis",
+      "description": "自动分析Qi Lu的X(Twitter)内容，生成综合报告并发送飞书通知",
+      "type": "built",
+      "rating": 5,
+      "category": "市场调查",
+      "githubUrl": "[待添加]",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": [
+        "uv包管理",
+        "Feishu API",
+        "Twitter API",
+        "Claude API"
+      ]
+    },
+    {
+      "id": "json-canvas",
+      "name": "JSON-Canvas",
+      "description": "创建和编辑JSON Canvas文件，支持节点、边、分组和连接",
+      "type": "evaluated",
+      "rating": 5,
+      "category": "产品开发",
+      "githubUrl": "https://github.com/kepano/obsidian-skills",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": [
+        "无特殊依赖",
+        "支持Obsidian"
+      ]
+    },
+    {
+      "id": "literature-review",
+      "name": "Literature-Review",
+      "description": "使用多个学术数据库进行全面、系统的文献综述",
+      "type": "evaluated",
+      "rating": 5,
+      "category": "市场调查",
+      "githubUrl": "https://github.com/K-Dense-AI/claude-scientific-skills",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": [
+        "Python requests",
+        "pandoc",
+        "xelatex"
+      ]
+    },
+    {
+      "id": "obsidian-bases",
+      "name": "Obsidian-Bases",
+      "description": "创建和编辑Obsidian Bases文件，支持视图、过滤器、公式和摘要",
+      "type": "evaluated",
+      "rating": 4,
+      "category": "产品开发",
+      "githubUrl": "https://github.com/kepano/obsidian-skills",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": [
+        "无特殊依赖",
+        "支持Obsidian"
+      ]
+    },
+    {
+      "id": "obsidian-markdown",
+      "name": "Obsidian-Markdown",
+      "description": "创建和编辑Obsidian风格的Markdown，支持wikilinks、嵌入、callouts等",
+      "type": "evaluated",
+      "rating": 4,
+      "category": "产品开发",
+      "githubUrl": "https://github.com/kepano/obsidian-skills",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": [
+        "无特殊依赖",
+        "支持Obsidian"
+      ]
+    },
+    {
+      "id": "scientific-critical-thinking",
+      "name": "Scientific-Critical-Thinking",
+      "description": "评估科学声明和证据质量，识别偏差和混淆因素",
+      "type": "evaluated",
+      "rating": 5,
+      "category": "市场调查",
+      "githubUrl": "https://github.com/K-Dense-AI/claude-scientific-skills",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": [
+        "无特殊依赖"
+      ]
+    },
+    {
+      "id": "scientific-writing",
+      "name": "Scientific-Writing",
+      "description": "科学论文写作工具，支持IMRAD结构、引文管理和专业格式化",
+      "type": "evaluated",
+      "rating": 5,
+      "category": "品牌增长",
+      "githubUrl": "https://github.com/K-Dense-AI/claude-scientific-skills",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": [
+        "pandoc",
+        "xelatex",
+        "LaTeX"
+      ]
+    }
+  ]
+}
