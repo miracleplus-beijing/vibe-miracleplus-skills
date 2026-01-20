@@ -1,0 +1,144 @@
+{
+  "entrepreneur": {
+    "dimension4_title": "创业经历",
+    "dimension4_title_en": "Entrepreneurial Journey",
+    "specific_questions": [
+      "创业梦想如何点燃",
+      "商业机会发现",
+      "创业方向确定",
+      "资源整合",
+      "团队组建",
+      "融资历程",
+      "股权分配",
+      "高光时刻",
+      "至暗时刻",
+      "创业锚点",
+      "企业家精神"
+    ],
+    "search_keywords": [
+      "startup",
+      "founder",
+      "entrepreneurship",
+      "funding",
+      "venture capital",
+      "IPO",
+      "acquisition",
+      "business model"
+    ]
+  },
+  "scientist": {
+    "dimension4_title": "学术里程碑",
+    "dimension4_title_en": "Academic Milestones",
+    "specific_questions": [
+      "研究兴趣形成",
+      "重要研究突破",
+      "学术合作",
+      "获得的荣誉",
+      "研究方向转变",
+      "学术影响力",
+      "科研精神"
+    ],
+    "search_keywords": [
+      "research",
+      "publications",
+      "citations",
+      "awards",
+      "Nobel Prize",
+      "breakthrough",
+      "discovery",
+      "academic career"
+    ]
+  },
+  "artist": {
+    "dimension4_title": "艺术生涯",
+    "dimension4_title_en": "Artistic Career",
+    "specific_questions": [
+      "艺术风格形成",
+      "代表作品",
+      "创作突破",
+      "艺术合作",
+      "获得的认可",
+      "风格演变",
+      "艺术精神"
+    ],
+    "search_keywords": [
+      "artwork",
+      "exhibition",
+      "performance",
+      "masterpiece",
+      "artistic style",
+      "creative process",
+      "awards",
+      "recognition"
+    ]
+  },
+  "politician": {
+    "dimension4_title": "政治生涯",
+    "dimension4_title_en": "Political Career",
+    "specific_questions": [
+      "从政动机",
+      "政治理念形成",
+      "重要政绩",
+      "政治联盟",
+      "危机处理",
+      "政治遗产",
+      "领导力体现"
+    ],
+    "search_keywords": [
+      "political career",
+      "election",
+      "policy",
+      "legislation",
+      "government",
+      "leadership",
+      "public service",
+      "political achievements"
+    ]
+  },
+  "athlete": {
+    "dimension4_title": "运动生涯",
+    "dimension4_title_en": "Athletic Career",
+    "specific_questions": [
+      "运动天赋发现",
+      "训练历程",
+      "重大比赛",
+      "突破性成就",
+      "伤病与恢复",
+      "职业转型",
+      "体育精神"
+    ],
+    "search_keywords": [
+      "sports career",
+      "championship",
+      "Olympic",
+      "world record",
+      "training",
+      "competition",
+      "achievements",
+      "retirement"
+    ]
+  },
+  "all": {
+    "dimension4_title": "职业里程碑",
+    "dimension4_title_en": "Career Milestones",
+    "specific_questions": [
+      "职业突破契机",
+      "关键机会识别",
+      "职业方向选择",
+      "资源获取",
+      "核心合作者",
+      "重要成就",
+      "职业转折",
+      "专业精神"
+    ],
+    "search_keywords": [
+      "career",
+      "achievements",
+      "milestones",
+      "breakthrough",
+      "success",
+      "professional",
+      "accomplishments"
+    ]
+  }
+}

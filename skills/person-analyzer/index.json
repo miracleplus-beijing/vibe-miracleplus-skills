@@ -1,0 +1,27 @@
+{
+  "analyses": [
+    {
+      "id": "elon_musk_2026-01-12",
+      "person_name": "Elon Musk",
+      "domain": "entrepreneur",
+      "depth": "deep",
+      "language": "chinese",
+      "generated_at": "2026-01-12T00:45:00Z",
+      "report_path": "reports/entrepreneur/elon_musk_complete_report_parts1-3.md",
+      "additional_parts": [
+        "reports/entrepreneur/elon_musk_analysis_part1_intro.md",
+        "reports/entrepreneur/elon_musk_analysis_part2_family.md",
+        "reports/entrepreneur/elon_musk_analysis_part3_education.md"
+      ],
+      "credibility_score": 85,
+      "stats": {
+        "sources_count": 70,
+        "validated_facts": 150,
+        "conflicts_found": 2,
+        "dimensions_analyzed": 9,
+        "total_words": 28000
+      }
+    }
+  ],
+  "last_updated": "2026-01-12T00:45:00Z"
+}
