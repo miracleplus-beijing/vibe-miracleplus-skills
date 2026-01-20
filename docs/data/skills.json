@@ -2,147 +2,855 @@
   "meta": {
     "title": "Vibe for 奇绩",
     "description": "使用Claude Code Skill助力奇绩的工作，更高质量，更长期地赋能奇绩校友成长",
-    "repoUrl": "[待添加]",
+    "repoUrl": "https://github.com/MiraclePlus/miracleplus-skills",
     "surveyUrl": "[待添加 - 飞书问卷链接]"
   },
   "categories": [
-    "产品开发",
-    "市场调查",
-    "品牌增长"
+    "创始人能力与心态",
+    "战略决策与市场",
+    "产品与用户",
+    "商业模式与定价",
+    "融资与投资者",
+    "团队与组织",
+    "研究与分析工具",
+    "高级系统思维"
   ],
   "skills": [
     {
-      "id": "alpha-sight",
-      "name": "Alpha-Sight",
-      "description": "科学研究工程助手，分析arXiv论文并复现代码",
+      "id": "agency-enhancement",
+      "name": "Agency Enhancement",
+      "description": "提升创始人的主动性和执行力，培养强大的行动力",
       "type": "built",
-      "rating": 4,
-      "category": "产品开发",
-      "githubUrl": "[待添加]",
+      "rating": 5,
+      "category": "创始人能力与心态",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/agency-enhancement/SKILL.md",
       "docUrl": "[待添加 - 飞书文档]",
-      "requirements": [
-        "Python >= 3.9",
-        "uv, git",
-        "arXiv API",
-        "Semantic Scholar API (可选)"
-      ]
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "cognition-agency-integration",
+      "name": "Cognition Agency Integration",
+      "description": "整合认知能力与行动力，实现知行合一",
+      "type": "built",
+      "rating": 5,
+      "category": "创始人能力与心态",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/cognition-agency-integration/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "founder-true-passion-assessment",
+      "name": "Founder True Passion Assessment",
+      "description": "评估创始人对项目的真实热情和长期承诺",
+      "type": "built",
+      "rating": 5,
+      "category": "创始人能力与心态",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/founder-true-passion-assessment/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "founder-as-chief-architect",
+      "name": "Founder as Chief Architect",
+      "description": "培养创始人作为公司首席架构师的能力",
+      "type": "built",
+      "rating": 5,
+      "category": "创始人能力与心态",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/founder-as-chief-architect/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "decision-speed-optimization",
+      "name": "Decision Speed Optimization",
+      "description": "优化决策速度，在快速变化的环境中保持竞争力",
+      "type": "built",
+      "rating": 5,
+      "category": "创始人能力与心态",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/decision-speed-optimization/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "beating-analysis-paralysis",
+      "name": "Beating Analysis Paralysis",
+      "description": "克服分析瘫痪，避免过度思考导致的行动迟缓",
+      "type": "built",
+      "rating": 5,
+      "category": "创始人能力与心态",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/beating-analysis-paralysis/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "deep-insight-formation",
+      "name": "Deep Insight Formation",
+      "description": "培养形成深刻洞察的能力，发现非共识的机会",
+      "type": "built",
+      "rating": 5,
+      "category": "创始人能力与心态",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/deep-insight-formation/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "verification-ability-training",
+      "name": "Verification Ability Training",
+      "description": "训练快速验证假设和想法的能力",
+      "type": "built",
+      "rating": 5,
+      "category": "创始人能力与心态",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/verification-ability-training/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "focus-intensity-framework",
+      "name": "Focus Intensity Framework",
+      "description": "建立专注力框架，提升工作强度和效率",
+      "type": "built",
+      "rating": 5,
+      "category": "创始人能力与心态",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/focus-intensity-framework/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "technical-founder-to-businessman",
+      "name": "Technical Founder to Businessman",
+      "description": "帮助技术创始人转型为全面的商业领导者",
+      "type": "built",
+      "rating": 5,
+      "category": "创始人能力与心态",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/technical-founder-to-businessman/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "vision-analysis",
+      "name": "Vision Analysis",
+      "description": "分析和评估创始人的愿景是否清晰和可行",
+      "type": "built",
+      "rating": 5,
+      "category": "创始人能力与心态",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/vision-analysis/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "vision-ambition-calibration",
+      "name": "Vision Ambition Calibration",
+      "description": "校准愿景与野心的平衡，确保目标既远大又可实现",
+      "type": "built",
+      "rating": 5,
+      "category": "创始人能力与心态",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/vision-ambition-calibration/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "two-week-iteration-discipline",
+      "name": "Two Week Iteration Discipline",
+      "description": "建立两周迭代的纪律，保持快速执行节奏",
+      "type": "built",
+      "rating": 5,
+      "category": "创始人能力与心态",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/two-week-iteration-discipline/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "b2b-vs-b2c-decision",
+      "name": "B2B vs B2C Decision",
+      "description": "帮助创始人在B2B和B2C商业模式之间做出正确选择",
+      "type": "built",
+      "rating": 5,
+      "category": "战略决策与市场",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/b2b-vs-b2c-decision/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "china-vs-us-market-choice",
+      "name": "China vs US Market Choice",
+      "description": "分析中美市场差异，帮助选择最适合的目标市场",
+      "type": "built",
+      "rating": 5,
+      "category": "战略决策与市场",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/china-vs-us-market-choice/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "market-strategy",
+      "name": "Market Strategy",
+      "description": "制定全面的市场进入和扩张策略",
+      "type": "built",
+      "rating": 5,
+      "category": "战略决策与市场",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/market-strategy/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "market-segmentation",
+      "name": "Market Segmentation",
+      "description": "进行有效的市场细分，找到最佳切入点",
+      "type": "built",
+      "rating": 5,
+      "category": "战略决策与市场",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/market-segmentation/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "market-priority-judgment",
+      "name": "Market Priority Judgment",
+      "description": "判断市场优先级，合理分配资源",
+      "type": "built",
+      "rating": 5,
+      "category": "战略决策与市场",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/market-priority-judgment/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "platform-vs-product-positioning",
+      "name": "Platform vs Product Positioning",
+      "description": "决定是构建平台还是产品，明确定位策略",
+      "type": "built",
+      "rating": 5,
+      "category": "战略决策与市场",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/platform-vs-product-positioning/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "vertical-vs-horizontal-strategy",
+      "name": "Vertical vs Horizontal Strategy",
+      "description": "选择垂直深耕还是横向扩展的战略路径",
+      "type": "built",
+      "rating": 5,
+      "category": "战略决策与市场",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/vertical-vs-horizontal-strategy/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "civilization-system-thinking",
+      "name": "Civilization System Thinking",
+      "description": "从文明系统层面思考商业机会和长期趋势",
+      "type": "built",
+      "rating": 5,
+      "category": "战略决策与市场",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/civilization-system-thinking/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "inflection-point-detection",
+      "name": "Inflection Point Detection",
+      "description": "识别行业和技术的拐点，把握关键时机",
+      "type": "built",
+      "rating": 5,
+      "category": "战略决策与市场",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/inflection-point-detection/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "historical-pattern-analysis",
+      "name": "Historical Pattern Analysis",
+      "description": "分析历史模式，预测未来趋势和机会",
+      "type": "built",
+      "rating": 5,
+      "category": "战略决策与市场",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/historical-pattern-analysis/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "opportunity-window-analysis",
+      "name": "Opportunity Window Analysis",
+      "description": "分析机会窗口的开启和关闭时机",
+      "type": "built",
+      "rating": 5,
+      "category": "战略决策与市场",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/opportunity-window-analysis/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "hardware-first-shot-framework",
+      "name": "Hardware First Shot Framework",
+      "description": "硬件创业的首发框架，提高成功率",
+      "type": "built",
+      "rating": 5,
+      "category": "战略决策与市场",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/hardware-first-shot-framework/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "pivot-decision-framework",
+      "name": "Pivot Decision Framework",
+      "description": "建立转型决策框架，判断何时需要pivot",
+      "type": "built",
+      "rating": 5,
+      "category": "战略决策与市场",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/pivot-decision-framework/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "pivot-timing-decision",
+      "name": "Pivot Timing Decision",
+      "description": "判断转型的最佳时机，避免过早或过晚",
+      "type": "built",
+      "rating": 5,
+      "category": "战略决策与市场",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/pivot-timing-decision/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "new-category-launch-strategy",
+      "name": "New Category Launch Strategy",
+      "description": "制定新品类推出策略，创造市场需求",
+      "type": "built",
+      "rating": 5,
+      "category": "战略决策与市场",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/new-category-launch-strategy/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "product-assessment",
+      "name": "Product Assessment",
+      "description": "全面评估产品的市场适配性和竞争力",
+      "type": "built",
+      "rating": 5,
+      "category": "产品与用户",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/product-assessment/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "product-market-fit-velocity",
+      "name": "Product Market Fit Velocity",
+      "description": "加速产品市场匹配的过程，缩短验证周期",
+      "type": "built",
+      "rating": 5,
+      "category": "产品与用户",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/product-market-fit-velocity/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "pmf-validation-framework",
+      "name": "PMF Validation Framework",
+      "description": "建立PMF验证框架，系统化评估产品市场匹配度",
+      "type": "built",
+      "rating": 5,
+      "category": "产品与用户",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/pmf-validation-framework/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "user-interview-methodology",
+      "name": "User Interview Methodology",
+      "description": "掌握有效的用户访谈方法，获取真实需求",
+      "type": "built",
+      "rating": 5,
+      "category": "产品与用户",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/user-interview-methodology/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "interview-vs-mvp-decision",
+      "name": "Interview vs MVP Decision",
+      "description": "决定何时进行用户访谈，何时构建MVP",
+      "type": "built",
+      "rating": 5,
+      "category": "产品与用户",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/interview-vs-mvp-decision/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "user-scenario-problem-unity",
+      "name": "User Scenario Problem Unity",
+      "description": "统一用户场景和问题定义，确保产品方向正确",
+      "type": "built",
+      "rating": 5,
+      "category": "产品与用户",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/user-scenario-problem-unity/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "onboarding-optimization",
+      "name": "Onboarding Optimization",
+      "description": "优化用户引导流程，提升激活率和留存率",
+      "type": "built",
+      "rating": 5,
+      "category": "产品与用户",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/onboarding-optimization/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "community-growth-strategy",
+      "name": "Community Growth Strategy",
+      "description": "制定社区增长策略，建立用户生态",
+      "type": "built",
+      "rating": 5,
+      "category": "产品与用户",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/community-growth-strategy/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "do-things-that-dont-scale",
+      "name": "Do Things That Don't Scale",
+      "description": "在早期阶段做不可扩展的事情，深度理解用户",
+      "type": "built",
+      "rating": 5,
+      "category": "产品与用户",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/do-things-that-dont-scale/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "low-frequency-trap-diagnosis",
+      "name": "Low Frequency Trap Diagnosis",
+      "description": "诊断和避免低频使用陷阱，提升产品粘性",
+      "type": "built",
+      "rating": 5,
+      "category": "产品与用户",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/low-frequency-trap-diagnosis/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "designing-user-interfaces",
+      "name": "Designing User Interfaces",
+      "description": "设计直观易用的用户界面，提升用户体验",
+      "type": "built",
+      "rating": 5,
+      "category": "产品与用户",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/designing-user-interfaces/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "ethical-product-boundary",
+      "name": "Ethical Product Boundary",
+      "description": "建立产品的道德边界，确保负责任的创新",
+      "type": "built",
+      "rating": 5,
+      "category": "产品与用户",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/ethical-product-boundary/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "pricing-strategy",
+      "name": "Pricing Strategy",
+      "description": "制定有效的定价策略，平衡价值和市场接受度",
+      "type": "built",
+      "rating": 5,
+      "category": "商业模式与定价",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/pricing-strategy/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "consumption-based-monetization",
+      "name": "Consumption Based Monetization",
+      "description": "设计基于消费的变现模式，提升收入弹性",
+      "type": "built",
+      "rating": 5,
+      "category": "商业模式与定价",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/consumption-based-monetization/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "outcome-based-pricing",
+      "name": "Outcome Based Pricing",
+      "description": "建立基于结果的定价模型，与客户价值对齐",
+      "type": "built",
+      "rating": 5,
+      "category": "商业模式与定价",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/outcome-based-pricing/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "gtm-strategy-selection",
+      "name": "GTM Strategy Selection",
+      "description": "选择最适合的市场进入策略",
+      "type": "built",
+      "rating": 5,
+      "category": "商业模式与定价",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/gtm-strategy-selection/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "gtm-channel-strategy",
+      "name": "GTM Channel Strategy",
+      "description": "制定市场进入的渠道策略，优化获客效率",
+      "type": "built",
+      "rating": 5,
+      "category": "商业模式与定价",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/gtm-channel-strategy/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "tob-customization-management",
+      "name": "ToB Customization Management",
+      "description": "管理ToB业务的定制化需求，平衡标准化和个性化",
+      "type": "built",
+      "rating": 5,
+      "category": "商业模式与定价",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/tob-customization-management/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "fundraising-readiness-assessment",
+      "name": "Fundraising Readiness Assessment",
+      "description": "评估融资准备度，确定最佳融资时机",
+      "type": "built",
+      "rating": 5,
+      "category": "融资与投资者",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/fundraising-readiness-assessment/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "fundraising-pitch-framework",
+      "name": "Fundraising Pitch Framework",
+      "description": "构建有效的融资路演框架，提升融资成功率",
+      "type": "built",
+      "rating": 5,
+      "category": "融资与投资者",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/fundraising-pitch-framework/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "angel-investor-matching",
+      "name": "Angel Investor Matching",
+      "description": "匹配合适的天使投资人，建立长期合作关系",
+      "type": "built",
+      "rating": 5,
+      "category": "融资与投资者",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/angel-investor-matching/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "investor-communication-skills",
+      "name": "Investor Communication Skills",
+      "description": "提升与投资人的沟通技巧，建立信任关系",
+      "type": "built",
+      "rating": 5,
+      "category": "融资与投资者",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/investor-communication-skills/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "term-sheet-negotiation",
+      "name": "Term Sheet Negotiation",
+      "description": "掌握投资条款谈判技巧，保护创始人权益",
+      "type": "built",
+      "rating": 5,
+      "category": "融资与投资者",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/term-sheet-negotiation/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "post-fundraising-management",
+      "name": "Post Fundraising Management",
+      "description": "融资后的资金管理和投资人关系维护",
+      "type": "built",
+      "rating": 5,
+      "category": "融资与投资者",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/post-fundraising-management/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "financial-legal-safeguard",
+      "name": "Financial Legal Safeguard",
+      "description": "建立财务和法律保障机制，规避风险",
+      "type": "built",
+      "rating": 5,
+      "category": "融资与投资者",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/financial-legal-safeguard/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "team-building-early-stage",
+      "name": "Team Building Early Stage",
+      "description": "早期团队组建策略，找到合适的联合创始人和核心成员",
+      "type": "built",
+      "rating": 5,
+      "category": "团队与组织",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/team-building-early-stage/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "hiring-firing-discipline",
+      "name": "Hiring Firing Discipline",
+      "description": "建立招聘和解雇的纪律，保持团队高效",
+      "type": "built",
+      "rating": 5,
+      "category": "团队与组织",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/hiring-firing-discipline/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "team-incentive-mechanism",
+      "name": "Team Incentive Mechanism",
+      "description": "设计有效的团队激励机制，提升凝聚力",
+      "type": "built",
+      "rating": 5,
+      "category": "团队与组织",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/team-incentive-mechanism/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "culture-as-moat",
+      "name": "Culture as Moat",
+      "description": "将企业文化打造成竞争壁垒",
+      "type": "built",
+      "rating": 5,
+      "category": "团队与组织",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/culture-as-moat/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "mission-vision-values-design",
+      "name": "Mission Vision Values Design",
+      "description": "设计公司的使命、愿景和价值观",
+      "type": "built",
+      "rating": 5,
+      "category": "团队与组织",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/mission-vision-values-design/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "startup-engine-design",
+      "name": "Startup Engine Design",
+      "description": "设计创业公司的运营引擎，提升执行效率",
+      "type": "built",
+      "rating": 5,
+      "category": "团队与组织",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/startup-engine-design/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
     },
     {
       "id": "person-analyzer",
-      "name": "Person-Analyzer",
+      "name": "Person Analyzer",
       "description": "深度人物传记分析工具，研究和分析有影响力人物的生命轨迹",
       "type": "built",
       "rating": 5,
-      "category": "市场调查",
-      "githubUrl": "[待添加]",
+      "category": "团队与组织",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/person-analyzer/SKILL.md",
       "docUrl": "[待添加 - 飞书文档]",
-      "requirements": [
-        "Python 3.8+",
-        "httpx, pydantic",
-        "Google AI Mode API",
-        "Tavily API (备用)"
-      ]
+      "requirements": ["MiraclePlus Internal"]
     },
     {
       "id": "qi-signal-analysis",
-      "name": "Qi-Signal-Analysis",
+      "name": "Qi Signal Analysis",
       "description": "自动分析Qi Lu的X(Twitter)内容，生成综合报告并发送飞书通知",
       "type": "built",
       "rating": 5,
-      "category": "市场调查",
-      "githubUrl": "[待添加]",
+      "category": "团队与组织",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/qi-signal-analysis/SKILL.md",
       "docUrl": "[待添加 - 飞书文档]",
-      "requirements": [
-        "uv包管理",
-        "Feishu API",
-        "Twitter API",
-        "Claude API"
-      ]
+      "requirements": ["MiraclePlus Internal"]
     },
     {
-      "id": "json-canvas",
-      "name": "JSON-Canvas",
-      "description": "创建和编辑JSON Canvas文件，支持节点、边、分组和连接",
-      "type": "evaluated",
-      "rating": 5,
-      "category": "产品开发",
-      "githubUrl": "https://github.com/kepano/obsidian-skills",
+      "id": "alpha-sight",
+      "name": "Alpha Sight",
+      "description": "科学研究工程助手，分析arXiv论文并复现代码",
+      "type": "built",
+      "rating": 4,
+      "category": "研究与分析工具",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/alpha-sight/SKILL.md",
       "docUrl": "[待添加 - 飞书文档]",
-      "requirements": [
-        "无特殊依赖",
-        "支持Obsidian"
-      ]
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "paper-reproducer",
+      "name": "Paper Reproducer",
+      "description": "复现学术论文的实验和代码，验证研究结果",
+      "type": "built",
+      "rating": 4,
+      "category": "研究与分析工具",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/paper-reproducer/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
     },
     {
       "id": "literature-review",
-      "name": "Literature-Review",
+      "name": "Literature Review",
       "description": "使用多个学术数据库进行全面、系统的文献综述",
       "type": "evaluated",
       "rating": 5,
-      "category": "市场调查",
-      "githubUrl": "https://github.com/K-Dense-AI/claude-scientific-skills",
+      "category": "研究与分析工具",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/literature-review/SKILL.md",
       "docUrl": "[待添加 - 飞书文档]",
-      "requirements": [
-        "Python requests",
-        "pandoc",
-        "xelatex"
-      ]
-    },
-    {
-      "id": "obsidian-bases",
-      "name": "Obsidian-Bases",
-      "description": "创建和编辑Obsidian Bases文件，支持视图、过滤器、公式和摘要",
-      "type": "evaluated",
-      "rating": 4,
-      "category": "产品开发",
-      "githubUrl": "https://github.com/kepano/obsidian-skills",
-      "docUrl": "[待添加 - 飞书文档]",
-      "requirements": [
-        "无特殊依赖",
-        "支持Obsidian"
-      ]
-    },
-    {
-      "id": "obsidian-markdown",
-      "name": "Obsidian-Markdown",
-      "description": "创建和编辑Obsidian风格的Markdown，支持wikilinks、嵌入、callouts等",
-      "type": "evaluated",
-      "rating": 4,
-      "category": "产品开发",
-      "githubUrl": "https://github.com/kepano/obsidian-skills",
-      "docUrl": "[待添加 - 飞书文档]",
-      "requirements": [
-        "无特殊依赖",
-        "支持Obsidian"
-      ]
+      "requirements": ["MIT License"]
     },
     {
       "id": "scientific-critical-thinking",
-      "name": "Scientific-Critical-Thinking",
+      "name": "Scientific Critical Thinking",
       "description": "评估科学声明和证据质量，识别偏差和混淆因素",
       "type": "evaluated",
       "rating": 5,
-      "category": "市场调查",
-      "githubUrl": "https://github.com/K-Dense-AI/claude-scientific-skills",
+      "category": "研究与分析工具",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/scientific-critical-thinking/SKILL.md",
       "docUrl": "[待添加 - 飞书文档]",
-      "requirements": [
-        "无特殊依赖"
-      ]
+      "requirements": ["MIT License"]
     },
     {
       "id": "scientific-writing",
-      "name": "Scientific-Writing",
+      "name": "Scientific Writing",
       "description": "科学论文写作工具，支持IMRAD结构、引文管理和专业格式化",
       "type": "evaluated",
       "rating": 5,
-      "category": "品牌增长",
-      "githubUrl": "https://github.com/K-Dense-AI/claude-scientific-skills",
+      "category": "研究与分析工具",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/scientific-writing/SKILL.md",
       "docUrl": "[待添加 - 飞书文档]",
-      "requirements": [
-        "pandoc",
-        "xelatex",
-        "LaTeX"
-      ]
+      "requirements": ["MIT License"]
+    },
+    {
+      "id": "mermaid-visualizer",
+      "name": "Mermaid Visualizer",
+      "description": "使用Mermaid创建流程图、时序图等可视化图表",
+      "type": "built",
+      "rating": 4,
+      "category": "研究与分析工具",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/mermaid-visualizer/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "json-canvas",
+      "name": "JSON Canvas",
+      "description": "创建和编辑JSON Canvas文件，支持节点、边、分组和连接",
+      "type": "evaluated",
+      "rating": 5,
+      "category": "研究与分析工具",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/json-canvas/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MIT License"]
+    },
+    {
+      "id": "obsidian-markdown",
+      "name": "Obsidian Markdown",
+      "description": "创建和编辑Obsidian风格的Markdown，支持wikilinks、嵌入、callouts等",
+      "type": "evaluated",
+      "rating": 4,
+      "category": "研究与分析工具",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/obsidian-markdown/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MIT License"]
+    },
+    {
+      "id": "obsidian-bases",
+      "name": "Obsidian Bases",
+      "description": "创建和编辑Obsidian Bases文件，支持视图、过滤器、公式和摘要",
+      "type": "evaluated",
+      "rating": 4,
+      "category": "研究与分析工具",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/obsidian-bases/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MIT License"]
+    },
+    {
+      "id": "excalidraw-diagram",
+      "name": "Excalidraw Diagram",
+      "description": "使用Excalidraw创建手绘风格的图表和示意图",
+      "type": "built",
+      "rating": 4,
+      "category": "研究与分析工具",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/excalidraw-diagram/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "building-context",
+      "name": "Building Context",
+      "description": "构建深度上下文理解，提升决策质量",
+      "type": "built",
+      "rating": 5,
+      "category": "高级系统思维",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/building-context/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "language-as-model",
+      "name": "Language as Model",
+      "description": "将语言作为思维模型，提升抽象思考能力",
+      "type": "built",
+      "rating": 5,
+      "category": "高级系统思维",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/language-as-model/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "scaling-law-application",
+      "name": "Scaling Law Application",
+      "description": "应用规模化定律，预测增长和优化资源配置",
+      "type": "built",
+      "rating": 5,
+      "category": "高级系统思维",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/scaling-law-application/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "supply-chain-analysis",
+      "name": "Supply Chain Analysis",
+      "description": "分析供应链结构，识别瓶颈和优化机会",
+      "type": "built",
+      "rating": 5,
+      "category": "高级系统思维",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/supply-chain-analysis/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
+    },
+    {
+      "id": "modeling-with-language",
+      "name": "Modeling with Language",
+      "description": "使用语言进行系统建模，提升问题分析能力",
+      "type": "built",
+      "rating": 5,
+      "category": "高级系统思维",
+      "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/modeling-with-language/SKILL.md",
+      "docUrl": "[待添加 - 飞书文档]",
+      "requirements": ["MiraclePlus Internal"]
     }
   ]
 }
