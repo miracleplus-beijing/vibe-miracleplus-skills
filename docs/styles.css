@@ -816,6 +816,33 @@ body {
   display: block;
 }
 
+/* QR Code Popup */
+.survey-qrcode {
+  position: absolute;
+  right: calc(100% + 20px);
+  top: 50%;
+  transform: translateY(-50%);
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.3s var(--ease-smooth);
+  pointer-events: none;
+}
+
+.survey-button:hover .survey-qrcode {
+  opacity: 1;
+  visibility: visible;
+  right: calc(100% + 30px);
+}
+
+.survey-qrcode img {
+  width: 280px;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15);
+  border: 3px solid var(--white);
+  background: var(--white);
+}
+
 /* ===================================
    Loading Indicator
    =================================== */
