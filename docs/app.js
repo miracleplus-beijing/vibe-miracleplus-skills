@@ -6,7 +6,7 @@ const SKILLS_DATA = {
     "title": "Vibe for 奇绩",
     "description": "使用Claude Code Skill助力奇绩的工作，更高质量，更长期地赋能奇绩校友成长",
     "repoUrl": "https://github.com/MiraclePlus/miracleplus-skills",
-    "surveyUrl": "[待添加 - 飞书问卷链接]"
+    "surveyUrl": "https://miracleplus.feishu.cn/share/base/form/shrcndp8HaTdzycApG7I0VmyuUf"
   },
   "categories": [
     "创始人能力与心态",
@@ -28,7 +28,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "创始人能力与心态",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/agency-enhancement/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -39,7 +39,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "创始人能力与心态",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/cognition-agency-integration/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -50,7 +50,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "创始人能力与心态",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/founder-true-passion-assessment/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -61,7 +61,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "创始人能力与心态",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/founder-as-chief-architect/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -72,7 +72,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "创始人能力与心态",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/decision-speed-optimization/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -83,7 +83,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "创始人能力与心态",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/beating-analysis-paralysis/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -94,7 +94,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "创始人能力与心态",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/deep-insight-formation/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -105,7 +105,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "创始人能力与心态",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/verification-ability-training/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -116,7 +116,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "创始人能力与心态",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/focus-intensity-framework/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -127,7 +127,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "创始人能力与心态",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/technical-founder-to-businessman/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -138,7 +138,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "创始人能力与心态",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/vision-analysis/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -149,7 +149,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "创始人能力与心态",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/vision-ambition-calibration/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -160,7 +160,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "创始人能力与心态",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/two-week-iteration-discipline/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
 
@@ -173,7 +173,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "战略决策与市场",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/b2b-vs-b2c-decision/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -184,7 +184,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "战略决策与市场",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/china-vs-us-market-choice/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -195,7 +195,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "战略决策与市场",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/market-strategy/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -206,7 +206,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "战略决策与市场",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/market-segmentation/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -217,7 +217,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "战略决策与市场",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/market-priority-judgment/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -228,7 +228,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "战略决策与市场",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/platform-vs-product-positioning/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -239,7 +239,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "战略决策与市场",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/vertical-vs-horizontal-strategy/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -250,7 +250,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "战略决策与市场",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/civilization-system-thinking/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -261,7 +261,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "战略决策与市场",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/inflection-point-detection/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -272,7 +272,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "战略决策与市场",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/historical-pattern-analysis/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -283,7 +283,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "战略决策与市场",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/opportunity-window-analysis/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -294,7 +294,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "战略决策与市场",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/hardware-first-shot-framework/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -305,7 +305,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "战略决策与市场",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/pivot-decision-framework/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -316,7 +316,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "战略决策与市场",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/pivot-timing-decision/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -327,7 +327,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "战略决策与市场",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/new-category-launch-strategy/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
 
@@ -340,7 +340,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "产品与用户",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/product-assessment/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -351,7 +351,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "产品与用户",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/product-market-fit-velocity/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -362,7 +362,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "产品与用户",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/pmf-validation-framework/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -373,7 +373,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "产品与用户",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/user-interview-methodology/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -384,7 +384,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "产品与用户",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/interview-vs-mvp-decision/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -395,7 +395,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "产品与用户",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/user-scenario-problem-unity/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -406,7 +406,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "产品与用户",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/onboarding-optimization/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -417,7 +417,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "产品与用户",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/community-growth-strategy/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -428,7 +428,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "产品与用户",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/do-things-that-dont-scale/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -439,7 +439,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "产品与用户",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/low-frequency-trap-diagnosis/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -450,7 +450,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "产品与用户",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/designing-user-interfaces/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -461,7 +461,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "产品与用户",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/ethical-product-boundary/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
 
@@ -474,7 +474,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "商业模式与定价",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/pricing-strategy/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -485,7 +485,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "商业模式与定价",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/consumption-based-monetization/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -496,7 +496,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "商业模式与定价",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/outcome-based-pricing/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -507,7 +507,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "商业模式与定价",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/gtm-strategy-selection/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -518,7 +518,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "商业模式与定价",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/gtm-channel-strategy/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -529,7 +529,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "商业模式与定价",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/tob-customization-management/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
 
@@ -542,7 +542,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "融资与投资者",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/fundraising-readiness-assessment/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -553,7 +553,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "融资与投资者",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/fundraising-pitch-framework/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -564,7 +564,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "融资与投资者",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/angel-investor-matching/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -575,7 +575,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "融资与投资者",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/investor-communication-skills/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -586,7 +586,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "融资与投资者",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/term-sheet-negotiation/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -597,7 +597,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "融资与投资者",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/post-fundraising-management/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -608,7 +608,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "融资与投资者",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/financial-legal-safeguard/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
 
@@ -621,7 +621,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "团队与组织",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/team-building-early-stage/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -632,7 +632,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "团队与组织",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/hiring-firing-discipline/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -643,7 +643,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "团队与组织",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/team-incentive-mechanism/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -654,7 +654,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "团队与组织",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/culture-as-moat/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -665,7 +665,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "团队与组织",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/mission-vision-values-design/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -676,7 +676,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "团队与组织",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/startup-engine-design/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -687,7 +687,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "团队与组织",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/person-analyzer/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -698,7 +698,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "团队与组织",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/qi-signal-analysis/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
 
@@ -711,7 +711,7 @@ const SKILLS_DATA = {
       "rating": 4,
       "category": "研究与分析工具",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/alpha-sight/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -722,7 +722,7 @@ const SKILLS_DATA = {
       "rating": 4,
       "category": "研究与分析工具",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/paper-reproducer/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -733,7 +733,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "研究与分析工具",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/literature-review/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MIT License"]
     },
     {
@@ -744,7 +744,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "研究与分析工具",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/scientific-critical-thinking/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MIT License"]
     },
     {
@@ -755,7 +755,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "研究与分析工具",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/scientific-writing/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MIT License"]
     },
     {
@@ -766,7 +766,7 @@ const SKILLS_DATA = {
       "rating": 4,
       "category": "研究与分析工具",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/mermaid-visualizer/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -777,7 +777,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "研究与分析工具",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/json-canvas/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MIT License"]
     },
     {
@@ -788,7 +788,7 @@ const SKILLS_DATA = {
       "rating": 4,
       "category": "研究与分析工具",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/obsidian-markdown/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MIT License"]
     },
     {
@@ -799,7 +799,7 @@ const SKILLS_DATA = {
       "rating": 4,
       "category": "研究与分析工具",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/obsidian-bases/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MIT License"]
     },
     {
@@ -810,7 +810,7 @@ const SKILLS_DATA = {
       "rating": 4,
       "category": "研究与分析工具",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/excalidraw-diagram/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
 
@@ -823,7 +823,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "高级系统思维",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/building-context/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -834,7 +834,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "高级系统思维",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/language-as-model/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -845,7 +845,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "高级系统思维",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/scaling-law-application/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -856,7 +856,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "高级系统思维",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/supply-chain-analysis/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     },
     {
@@ -867,7 +867,7 @@ const SKILLS_DATA = {
       "rating": 5,
       "category": "高级系统思维",
       "githubUrl": "https://github.com/MiraclePlus/miracleplus-skills/blob/main/modeling-with-language/SKILL.md",
-      "docUrl": "[待添加 - 飞书文档]",
+      "docUrl": "https://miracleplus.feishu.cn/wiki/Oi20wZiiFikbybk2YvacpYEpnZe",
       "requirements": ["MiraclePlus Internal"]
     }
   ]
